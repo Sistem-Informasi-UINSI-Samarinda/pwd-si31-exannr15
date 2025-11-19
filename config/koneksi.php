@@ -12,7 +12,6 @@ if(!$conn){
 
 }
 
-echo "koneksi berhasil";
-mysqli_close($conn);
+
 
 ?>
